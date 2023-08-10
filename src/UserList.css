@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.userlists{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-width: 200px;
+    height: 100%;
+    margin: 0 auto;
+    padding: 10px;
+}
+.user{
+    margin: 10px auto;
+    padding: 10px;
+    color: whitesmoke;
+    line-height: 2;
+    word-spacing: 5px;
+    width: 100%;
+    list-style: none;
+    font-size: 21px;
+}
